@@ -2,7 +2,8 @@
 # Date: 11/12/2026
 # 
 # file name: Module3_vehicle_Class.py
-# URL: https://github.com/normc812/Module-3/tbd
+# URL: https://github.com/normc812/Sdev220_module3/blob/main/Module3_Vehicle_Class.py
+# text output URL: https://github.com/normc812/Sdev220_module3/blob/main/vehicle_app_output.txt
 #
 # Description: This program creates a supercass called Vehicle which contains attributes
 # for vehicle type, and a subclass called Automobile which inherits from Vehicle and adds 
