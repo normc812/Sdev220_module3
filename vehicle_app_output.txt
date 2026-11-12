@@ -1,0 +1,96 @@
+PS C:\Users\nbliz\AppData\Local\Programs\Microsoft VS Code> C:\Users\nbliz\AppData\Local\Python\pythoncore-3.15-64\python.exe c:/Users/nbliz/Github/Module3_Vehicle_Class.py
+Welcome to the Vehicle Information Program!
+Enter the details for your vehicle below.
+
+Enter vehicle type (car, truck, SUV, etc.): car
+Enter year: 2013
+Enter make: Chrysler
+Enter model: 200 Touring
+Enter number of doors (2 or 4): 2
+Enter roof type (solid, convertible or sunroof): convertible
+
+Vehicle added successfully!
+Would you like to add another vehicle? (y/n): y
+
+Enter vehicle type (car, truck, SUV, etc.): truck
+Enter year: 2008
+Enter make: Ford
+Enter model: E-150 Van
+Enter number of doors (2 or 4): 4
+Enter roof type (solid, convertible or sunroof): solid
+
+Vehicle added successfully!
+Would you like to add another vehicle? (y/n): y
+
+Enter vehicle type (car, truck, SUV, etc.): SUV
+Enter year: 2026
+Enter make: Hyundai
+Enter model: Santa Fe
+Enter number of doors (2 or 4): 4
+Enter roof type (solid, convertible or sunroof): sunroof
+
+Vehicle added successfully!
+Would you like to add another vehicle? (y/n): y
+
+Enter vehicle type (car, truck, SUV, etc.): 
+Vehicle type cannot be blank. Please try again.
+Enter vehicle type (car, truck, SUV, etc.): car
+Enter year: 1978
+Enter make: Yugo
+Enter model: Plywood 
+Enter number of doors (2 or 4): 2
+Enter roof type (solid, convertible or sunroof): solid
+
+Vehicle added successfully!
+Would you like to add another vehicle? (y/n): n
+
+========================================
+VEHICLE SUMMARY — 4 vehicle(s)
+========================================
+
+Vehicle #1
+
+Vehicle information:
+___________________________________
+Vehicle Type: car
+Year:         2013
+Make:         Chrysler
+Model:        200 Touring
+Doors:        2
+Roof:         convertible
+
+Vehicle #2
+
+Vehicle information:
+___________________________________
+Vehicle Type: truck
+Year:         2008
+Make:         Ford
+Model:        E-150 Van
+Doors:        4
+Roof:         solid
+
+Vehicle #3
+
+Vehicle information:
+___________________________________
+Vehicle Type: SUV
+Year:         2026
+Make:         Hyundai
+Model:        Santa Fe
+Doors:        4
+Roof:         sunroof
+
+Vehicle #4
+
+Vehicle information:
+___________________________________
+Vehicle Type: car
+Year:         1978
+Make:         Yugo
+Model:        Plywood
+Doors:        2
+Roof:         solid
+
+Thank you for using the Vehicle Information Program!
+PS C:\Users\nbliz\AppData\Local\Programs\Microsoft VS Code> 
